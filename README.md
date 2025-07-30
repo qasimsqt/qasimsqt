@@ -20,10 +20,10 @@
 
 ## 📌 Featured Projects
 
-### 🔹 [Multi-Tier App on Kubernetes](https://github.com/qasim22/k8s-multi-tier-app)
+### 🔹 [Multi-Tier App on Kubernetes](https://github.com/qasimsqt/k8s-multi-tier-app)
 > Deployed NGINX + MongoDB on a kubeadm cluster with Ingress, ConfigMaps, Secrets
 
-### 🔹 [AWS Infrastructure with Terraform](https://github.com/qasim22/aws-terraform-infra)
+### 🔹 [AWS Infrastructure with Terraform](https://github.com/qasimsqt/aws-terraform-infra)
 > Built VPC, Subnet, EC2, and SGs using Terraform — also replicated with CloudFormation
 
 ---
