@@ -28,7 +28,7 @@
 
 ---
 
-## 📈 GitHub Stats (Optional)
+## 📈 GitHub Stats 
 
 ![Qasim's GitHub stats](https://github-readme-stats.vercel.app/api?username=qasimsqt&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qasimsqt&layout=compact&theme=tokyonight)
