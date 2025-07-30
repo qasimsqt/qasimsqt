@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 👋 Hey there! I'm Qasim Sadaqat
 
 🚀 DevOps Enthusiast | AWS Certified Solutions Architect Associate  
