@@ -1,16 +1,44 @@
 ## Hi there 👋
 
-<!--
-**qasimsqt/qasimsqt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hey there! I'm Qasim Sadaqat
 
-Here are some ideas to get you started:
+🚀 DevOps Enthusiast | AWS Certified Solutions Architect Associate  
+🛠️ Automating infrastructure & deployments with Terraform, Kubernetes, and CI/CD  
+🎓 Currently building hands-on projects while leveling up my cloud engineering skills  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧰 Tech Stack
+
+- ☁️ **Cloud**: AWS (EC2, S3, IAM, RDS), Azure (Basics)
+- 🚀 **DevOps**: Docker, Kubernetes, Helm, Jenkins, GitHub Actions
+- 📦 **IaC**: Terraform, AWS CloudFormation
+- 📡 **Monitoring**: Prometheus, CloudWatch
+- 💻 **OS & Scripting**: Linux (Red Hat, Ubuntu), Bash, Python
+
+---
+
+## 📌 Featured Projects
+
+### 🔹 [Multi-Tier App on Kubernetes](https://github.com/qasim22/k8s-multi-tier-app)
+> Deployed NGINX + MongoDB on a kubeadm cluster with Ingress, ConfigMaps, Secrets
+
+### 🔹 [AWS Infrastructure with Terraform](https://github.com/qasim22/aws-terraform-infra)
+> Built VPC, Subnet, EC2, and SGs using Terraform — also replicated with CloudFormation
+
+---
+
+## 📈 GitHub Stats (Optional)
+
+![Qasim's GitHub stats](https://github-readme-stats.vercel.app/api?username=qasimsqt&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qasimsqt&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Connect with Me
+
+- 💼 [LinkedIn](https://linkedin.com/in/qasim-sadaqat)
+- 💻 [GitHub](https://github.com/qasimsqt)
+- 📧 qasimsqt@gmail.com
+
+---
