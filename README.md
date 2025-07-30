@@ -26,6 +26,21 @@
 
 ---
 
+## 🧰 My DevOps Toolbox
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="60" height="60" alt="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" width="60" height="60" alt="Kubernetes"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original-wordmark.svg" width="60" height="60" alt="Terraform"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="60" height="60" alt="AWS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="60" height="60" alt="Bash"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="60" height="60" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60" height="60" alt="Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" height="60" alt="GitHub"/>
+</p>
+
+
 ## 📈 GitHub Stats 
 
 ![Qasim's GitHub stats](https://github-readme-stats.vercel.app/api?username=qasimsqt&show_icons=true&theme=tokyonight)
