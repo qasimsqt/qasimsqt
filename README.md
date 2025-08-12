@@ -18,6 +18,10 @@
 
 ## 📌 Featured Projects
 
+### 🔹 [Multi-Tier App on AWS](https://github.com/qasimsqt/aws-three-tier-app)  
+> Deployed a secure and scalable three-tier architecture on AWS with EC2, ALB, and RDS.
+
+
 ### 🔹 [Multi-Tier App on Kubernetes](https://github.com/qasimsqt/k8s-multi-tier-app)
 > Deployed NGINX + MongoDB on a kubeadm cluster with Ingress, ConfigMaps, Secrets
 
